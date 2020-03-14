@@ -15,6 +15,7 @@ Human pose estimation - POSE - is a multi person pose estimation network that us
 
 Installation / Configuration
 
+The text-detection-0003.zip file needs to be decompressed to the same folder as app.py.
 opencv 4.0.1
 numpy 1.18.0
 openvino 2020.1
