@@ -1,4 +1,6 @@
 # Car-Data---Text-Detector---Human-Pose
+REQUIRED: Openvino 2020.1
+
 3 neural network models - Human pose estimation, car metadata and text detector
 
 3 models in one application. 
